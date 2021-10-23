@@ -1,2 +1,1 @@
-Learing Golang
-Happy Learning
+Learning Golang, Happy Learning
